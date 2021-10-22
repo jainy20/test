@@ -37,6 +37,7 @@ elif salmon>4189:
     print("nicontriannumnew",'%.2f'%ninew2)
     takehome2=user1-taxrate2-ninew2
     print("takehome","%.2f"%takehome2)
+    print('testing github')
 """elif user1>150000 and salmon>4189:
     ni=(4189-797)*.12
     ninew=(salmon-4189)*.02
